@@ -44,14 +44,6 @@ Terraform state locking is a mechanism that prevents simultaneous state modifica
 - AWS credentials (if deploying AWS-based locking infrastructure)
 - Appropriate IAM permissions for creating backend resources
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
-
 ## Author
 
 Maintained by [amitkumar0128](https://github.com/amitkumar0128).
